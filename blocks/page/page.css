@@ -5,3 +5,16 @@
   margin: 0 auto;
   font-family: 'Inter' 'Helvetica Neue', Arial, sans-serif;
 }
+
+@font-face {
+  font-family: 'Inter';
+  src: url(../../fonts/Inter-Regular.woff) format("woff"),
+       url(../../fonts/Inter-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: bold;
+  src: url(../../fonts/Inter-Bold.woff) format("woff"),
+       url(../../fonts/Inter-Bold.woff2) format("woff2");
+}
