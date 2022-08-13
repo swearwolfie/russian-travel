@@ -1,0 +1,11 @@
+.lead__route {
+  width: 934px;
+  height: 263px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 90px;
+  align-self: center;
+  z-index: 2;
+}
+

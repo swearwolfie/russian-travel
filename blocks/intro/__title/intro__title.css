@@ -1,0 +1,11 @@
+.intro__title {
+  margin: 0px;
+  padding: 0px;
+  max-width: 690px;
+  max-height: 52px;
+  color: #fff;
+  font-family: 'Inter','Helvetica Neue', Arial, sans-serif;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+}

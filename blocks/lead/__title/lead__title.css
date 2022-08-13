@@ -1,9 +1,14 @@
 .lead__title {
   color: #fff;
+  max-width: 720px;
+  max-height: 200px;
+  text-align: center;
   font-family: 'Inter','Helvetica Neue', Arial, sans-serif;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 96px;
   line-height: 100px;
+  margin: 0px;
+  padding: 0px;
 }
 
 @media screen and (max-width: 425px) {
