@@ -20,4 +20,15 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__item/intro__item.css);
 @import url(../blocks/intro/__item-bold/intro__item-bold.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__list/places__list.css);
+@import url(../blocks/places/__item/places__item.css);
+@import url(../blocks/places/__column-info/places__column-info.css);
+@import url(../blocks/places/__heading/places__heading.css);
+@import url(../blocks/places/__pic/places__pic.css);
+@import url(../blocks/places/__column-text/places__column-text.css);
+@import url(../blocks/places/__url/places__url.css);
+@import url(../blocks/places/__link/places__link.css);
+@import url(../blocks/places/__text/places__text.css);
 @import url(../blocks/footer/footer.css);

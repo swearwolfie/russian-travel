@@ -1,0 +1,8 @@
+.places__item {
+  display: flex;
+  justify-items: space-evenly;
+  width: 984px;
+  height: 660px;
+  margin: 0px;
+  margin-bottom: 80px;
+}

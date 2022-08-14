@@ -1,0 +1,16 @@
+.places__text {
+  margin: 0px;
+  margin-bottom: 25px;
+  padding: 0px;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+}
+
+.places__text:last-of-type {
+  margin-bottom: 0px;
+}
+

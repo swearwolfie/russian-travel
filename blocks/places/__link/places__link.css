@@ -1,0 +1,11 @@
+.places__link {
+  margin: 12px 0px 40px;
+  padding: 0px;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration-line: underline;
+}
