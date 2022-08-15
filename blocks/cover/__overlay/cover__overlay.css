@@ -1,0 +1,4 @@
+.cover__overlay {
+  background-image: url(../../../images/__background.jpg);
+  z-index: 1;
+}
