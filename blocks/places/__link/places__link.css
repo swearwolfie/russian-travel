@@ -9,3 +9,7 @@
   color: #FFFFFF;
   text-decoration-line: underline;
 }
+
+.places__link:hover {
+  cursor: pointer;
+}

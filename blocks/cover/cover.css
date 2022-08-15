@@ -1,6 +1,9 @@
 .cover {
   display: flex;
   flex-direction: column;
-  margin: 0px auto;
+  align-items: center;
+  justify-content: center;
+  margin: 92px auto 0px;
   padding: 0px;
+  position: relative;
 }

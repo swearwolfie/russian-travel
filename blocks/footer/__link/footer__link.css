@@ -1,0 +1,20 @@
+.footer__link {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 0px;
+  margin: 0xp;
+  margin-right: 18px;
+}
+
+.places__link:hover {
+  cursor: pointer;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0px;
+}
