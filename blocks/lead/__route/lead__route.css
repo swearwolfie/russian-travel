@@ -1,5 +1,5 @@
 .lead__route {
-  width: 934px;
+  width: 937px;
   height: 263px;
   margin: 0px;
   padding: 0px;
@@ -7,5 +7,30 @@
   top: 90px;
   align-self: center;
   z-index: 2;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__route {
+    width: 884px;
+    height: 248px;
+    object-fit: cover;
+    top: 85px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .lead__route {
+    width: 732px;
+    height: 205px;
+    object-fit: cover;
+    top: 70px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .lead__route {
+    width: 305px;
+    height: 86px;
+    object-fit: cover;
+    top: 30px;
+  }
 }
 
