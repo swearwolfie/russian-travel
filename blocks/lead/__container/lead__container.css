@@ -5,4 +5,5 @@
   flex-direction: column;
   justify-items: center;
   position: relative;
+  box-sizing: border-box;
 }
