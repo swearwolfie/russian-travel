@@ -17,3 +17,10 @@
     max-width: 300px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .places__heading {
+    width: calc(100% - 32px);
+    margin: 0px auto 32px;
+  }
+}

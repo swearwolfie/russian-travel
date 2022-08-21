@@ -15,7 +15,7 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 48px 32px; 
-  margin-top: 73px;
+  margin-top: 80px;
   }
 }
 
@@ -27,3 +27,14 @@
     gap: 48px 28px;  
   }
 }
+
+@media screen and (max-width: 425px) {
+  .places__card_s {
+  width: 100%;
+  height: auto;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 0px;
+  margin: 50px 0px 0px;
+  }
+  }

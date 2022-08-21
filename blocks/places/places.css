@@ -16,7 +16,7 @@
 }
 @media screen and (max-width: 425px) {
   .places {
-    margin-top: 64px;
-    width: 100%;
+    margin: 64px 0px 0px;
+    width: 100vw;
   }
 }
