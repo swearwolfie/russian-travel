@@ -15,14 +15,15 @@
 
 @media screen and (max-width: 768px) {
   .places__pic {
-    width: 340px;
-    height: 340px;
+    width: 100%;
+    height: auto;
   }
 }
+/*
 @media screen and (max-width: 425px) {
   .places__pic {
     width: 320px;
     height: 320px;
     margin-bottom: 32px;
   }
-}
+}*/

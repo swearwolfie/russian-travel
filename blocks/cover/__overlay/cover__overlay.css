@@ -30,6 +30,8 @@
   transition: opacity 0.3s linear 0s;
 }
 
+
+
 @media screen and (max-width: 1024px) {
   .cover__overlay {
     width: 1024px;

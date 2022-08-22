@@ -1,34 +1,33 @@
 .lead__route {
-  width: 937px;
-  height: 263px;
-  margin: 0px;
+  max-width: calc(100% - 42px);
+  margin: 0px auto;
   padding: 0px;
   position: absolute;
-  top: 90px;
+  top: 100px;
   align-self: center;
   z-index: 2;
 }
 
 @media screen and (max-width: 1024px) {
   .lead__route {
-    width: 884px;
-    height: 248px;
+    /*width: 884px;
+    height: 248px; */
+    align-self: center;
     object-fit: cover;
-    top: 85px;
+    top: 80px;
   }
 }
 @media screen and (max-width: 768px) {
   .lead__route {
-    width: 732px;
-    height: 205px;
+    width: calc(100% - 36px);
     object-fit: cover;
     top: 70px;
   }
 }
 @media screen and (max-width: 425px) {
   .lead__route {
-    width: 305px;
-    height: 86px;
+    width: calc(100% - 30px);
+    margin-left: 13px;
     object-fit: cover;
     top: 30px;
   }
