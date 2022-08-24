@@ -1,5 +1,4 @@
 .cover__overlay {
-  width: 1184px;
   min-height: 740px;
   display: flex;
   align-items: center;
@@ -29,9 +28,9 @@
 }
 
 
-
 @media screen and (max-width: 1024px) {
   .cover__overlay {
+    width: 100%;
     min-height: 640px;
   }
 }
