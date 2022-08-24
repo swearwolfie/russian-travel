@@ -1,6 +1,5 @@
 .lead__container {
-  width: 984px;
-  height: 615px;
+  max-width: 984px;
   margin: 0px;
   padding: 0px;
   display: flex;
@@ -8,6 +7,12 @@
   justify-items: center;
   position: relative;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__container {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 983px)  {

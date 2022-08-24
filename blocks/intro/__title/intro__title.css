@@ -2,25 +2,26 @@
   margin: 0px;
   padding: 0px;
   max-width: 690px;
-  min-height: 52px;
   color: #fff;
   font-family: 'Inter','Helvetica Neue', Arial, sans-serif;
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
+  margin-top: 92px;
 }
 
 @media screen and (max-width: 768px) {
   .intro__title {
     max-width: 720px;
+    margin-top: 88px;
   }  
 }
 
 @media screen and (max-width: 425px) {
   .intro__title {
     max-width: 288px;
-    max-height: 70px;
     font-size: 32px;
     line-height: 35px;
+    margin-top: 64px;
   }
 }

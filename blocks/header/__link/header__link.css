@@ -2,7 +2,6 @@
   display: flex;
   align-self: flex-end;
   max-width: 30px;
-  max-height: 28px;
   margin: 0px;
   padding: 0px;
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
@@ -11,6 +10,16 @@
   line-height: 28px;
   color: #FFF;
   text-decoration: none;
+}
+
+.header__link:first-of-type {
+  margin-right: 18px;
+}
+
+.header__link:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s linear 0s;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 425px) {
