@@ -9,12 +9,20 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .places {
     margin-top: 88px;
     max-width: calc(100% - 48px);
   }
 }
+
+@media screen and (max-width: 700px) {
+  .places {
+    margin: 64px 0px 0px;
+    width: 100vw;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .places {
     margin: 64px 0px 0px;
